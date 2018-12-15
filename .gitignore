@@ -1,0 +1,12 @@
+*.class
+*.log
+
+target/
+project/boot/
+project/plugins/project/
+.cache/
+.history/
+.lib/
+dist/*
+
+.idea
