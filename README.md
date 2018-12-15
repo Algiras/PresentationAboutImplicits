@@ -2,6 +2,10 @@
 
 This is a repository with sample code for Fp Meetup in Vilnius Lithuania.
 
+In the talk I will discuss methods of scrapping your boilerplate
+by using implicit induction and scala's type system. As part of the demo, 
+I will talk about `HList` and problems it helps us solve.  
+
 The reading order is:
 
 1. [Basics](src/main/scala/Presentation/Basics.sc) - examples of induction in programming
