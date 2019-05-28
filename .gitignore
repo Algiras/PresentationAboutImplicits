@@ -10,3 +10,7 @@ project/plugins/project/
 dist/*
 
 .idea
+.bloop
+.metals
+project/.bloop/
+notebooks/.ipynb_checkpoints/
